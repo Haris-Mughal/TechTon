@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import { useToast } from '../hooks/use-toast';
 import { Linkedin } from 'lucide-react';
@@ -14,16 +15,8 @@ const Contact: React.FC = () => {
     setIsSubmitting(true);
     
     try {
-      // Prepare the data for submission
-      const formData = {
-        name,
-        email,
-        message,
-        date: new Date().toISOString()
-      };
-
       // For free serverless function endpoints
-      const FORM_ENDPOINT = "https://formspree.io/f/harismirza3456@gmail.com";
+      const FORM_ENDPOINT = "https://formspree.io/f/mkgrvwbv";
       
       // Send form data to formspree (free tier)
       const response = await fetch(FORM_ENDPOINT, {
