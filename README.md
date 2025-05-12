@@ -1,73 +1,76 @@
-# Welcome to your Lovable project
+# 🌌 TechTon – Learn, Build & Achieve
 
-## Project info
+Welcome to **TechTon**, a futuristic, dark-themed single-page website designed for our tech organization dedicated to **spreading awareness, mentoring peers, and sharing opportunities** in the world of tech.  
+Built using **React**, **Vite**, **TypeScript**, and **TailwindCSS** — the site is sleek, fast, and fully responsive.
 
-**URL**: https://lovable.dev/projects/8a9395b6-2e93-480f-8403-6bc6849fa38d
+![TechTon Logo](public/techton.png)
 
-## How can I edit this code?
+## 🚀 Live Demo
 
-There are several ways of editing your application.
+![TechTon Logo](public/techton-logo.png)
+🔗 [Visit the Site](https://techton.vercel.app/)  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8a9395b6-2e93-480f-8403-6bc6849fa38d) and start prompting.
+## 📌 Sections Overview
 
-Changes made via Lovable will be committed automatically to this repo.
+### 1. 🪐 Hero Section
+- Animated central glowing logo (black hole inspired)
+- Tagline: _“Learn, Build & Achieve”_
+- Particle background for a galactic vibe
+- Scroll-down indicator
 
-**Use your preferred IDE**
+### 2. 🌟 About TechTon
+- Who we are and what we do
+- Clean layout with galaxy-themed section dividers
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 3. 💡 What We Offer
+- Grid of 4 animated cards:
+  - Hackathons & Competitions
+  - Good Info (Tech Updates)
+  - Jobs & Internships
+  - Coding Support (LeetCode, etc.)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 4. 👨‍💻 Admin Profile
+- Haris Mughal's contact card with:
+  - LinkedIn
+  - GitHub
+  - Portfolio
 
-Follow these steps:
+### 5. ✉️ Join Us / Contact
+- Fully working **contact form** with Formspree integration
+- CTA: _“Become a TechTonian”_
+- Link to our official [LinkedIn Page](https://www.linkedin.com/company/techton-618)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🛠️ Tech Stack
 
-# Step 3: Install the necessary dependencies.
-npm i
+- **Framework**: React
+- **Build Tool**: Vite
+- **Language**: TypeScript
+- **Styling**: TailwindCSS + HTML + CSS
+- **Animations**: Tailwind Transitions, Framer Motion
+- **Form Backend**: Formspree
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🖼️ Design Philosophy
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Dark mode-first design with starfield/nebula vibes  
+- Clean, modern typography (Inter / Orbitron)  
+- Minimalist layout with smooth section transitions  
+- Mobile-first responsiveness  
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📄 License
 
-## What technologies are used for this project?
+This project is open-source and free to use under the [MIT License](LICENSE).
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 💫 Made with love by  
+**[Haris Mughal](https://www.linkedin.com/in/iamharisahsan/)** – Founder of TechTon  
+MIT² Global Finalist · Harvard Puzzles Winner · Stanford Section Leader
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/8a9395b6-2e93-480f-8403-6bc6849fa38d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
