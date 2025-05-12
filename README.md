@@ -3,10 +3,11 @@
 Welcome to **TechTon**, a futuristic, dark-themed single-page website designed for our tech organization dedicated to **spreading awareness, mentoring peers, and sharing opportunities** in the world of tech.  
 Built using **React**, **Vite**, **TypeScript**, and **TailwindCSS** — the site is sleek, fast, and fully responsive.
 
-![TechTon Logo](public/logo.png)
+![TechTon Logo](public/techton.png)
 
 ## 🚀 Live Demo
 
+![TechTon Logo](public/techton-logo.png)
 🔗 [Visit the Site](https://techton.vercel.app/)  
 
 ---
