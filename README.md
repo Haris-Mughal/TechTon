@@ -7,7 +7,7 @@ Built using **React**, **Vite**, **TypeScript**, and **TailwindCSS** — the sit
 
 ## 🚀 Live Demo
 
-![TechTon Logo](public/techton-logo.png)
+<img src="public/techton-logo.png" alt="TechTon Logo" width="30"/>
 🔗 [Visit the Site](https://techton.vercel.app/)  
 
 ---
