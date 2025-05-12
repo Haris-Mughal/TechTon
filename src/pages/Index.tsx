@@ -4,7 +4,7 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import About from '@/components/About';
 import WhatWeOffer from '@/components/WhatWeOffer';
-import Community from '@/components/Community';
+// import Community from '@/components/Community';
 import Admins from '@/components/Admins';
 import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
@@ -19,7 +19,7 @@ const Index: React.FC = () => {
         <Hero />
         <About />
         <WhatWeOffer />
-        <Community />
+        {/* <Community /> */}
         <Admins />
         <Contact />
         <Footer />
