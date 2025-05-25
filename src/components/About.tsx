@@ -8,7 +8,7 @@ const About: React.FC = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold font-orbitron mb-2 text-white">About <span className="text-space-purple">TechTon</span></h2>
           <p className="text-lg text-space-lavender font-semibold mb-6">
-            Our Motto – Learn, Build &amp; Achieve
+            Learn, Build &amp; Achieve
           </p>
           
           <div className="w-24 h-1 bg-gradient-to-r from-space-purple to-space-blue mx-auto mb-8 rounded-full"></div>

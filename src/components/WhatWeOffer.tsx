@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Trophy, Info, Briefcase, Code } from 'lucide-react';
+import { Trophy, Info, Briefcase, Code, GraduationCap } from 'lucide-react';
 
 const features = [
   {
@@ -22,6 +22,11 @@ const features = [
     icon: <Code className="w-10 h-10 text-space-blue" />,
     title: "Coding Support",
     description: "Receive help with algorithm challenges, technical interviews, and coding practices like LeetCode."
+  },
+  {
+    icon: <GraduationCap className="w-10 h-10 text-space-green" />,
+    title: "Scholarships",
+    description: "Discover scholarship opportunities for tech education and career development to advance your learning journey."
   }
 ];
 
@@ -30,11 +35,11 @@ const WhatWeOffer: React.FC = () => {
     <section id="offerings" className="py-20 relative">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold font-orbitron mb-4 text-white">What We <span className="text-space-purple">Offer</span></h2>
+          <h2 className="text-3xl md:text-4xl font-bold font-orbitron mb-4 text-white">What We <span className="text-space-purple">Assist with</span></h2>
           <div className="w-24 h-1 bg-gradient-to-r from-space-purple to-space-blue mx-auto mb-8 rounded-full"></div>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
           {features.map((feature, index) => (
             <div 
               key={index} 
